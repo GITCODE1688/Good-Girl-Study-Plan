@@ -94,7 +94,7 @@ Good-Girl-Study-Plan/
 - [x] 建立 `README.md`
 - [x] 建立 `01-family-guide/`
 - [x] 建立 `02-child-profile/`
-- [ ] 建立 `03-study-roadmap/`
-- [ ] 建立 `04-action-plans/`
-- [ ] 建立 `05-records/`
-- [ ] 建立 `06-decisions/`
+- [x] 建立 `03-study-roadmap/`
+- [x] 建立 `04-action-plans/`
+- [x] 建立 `05-records/`
+- [x] 建立 `06-decisions/`
